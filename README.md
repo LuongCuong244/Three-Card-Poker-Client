@@ -1,4 +1,4 @@
-# BaCayOnline
+# Three Card Poker Online
 An online three-card poker game application that allows a maximum of 10 players to play on one table.
 
 ## Features
